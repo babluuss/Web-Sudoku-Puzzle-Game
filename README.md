@@ -11,7 +11,7 @@ Web Sudoku Puzzle Game
 <a href="https://github.com/huaminghuangtw/Web-Sudoku-Puzzle-Game/pulls"><img src="https://img.shields.io/github/issues-pr/huaminghuangtw/Web-Sudoku-Puzzle-Game.svg?style=social&logo=github"></a>
 </p>
 
-> Welcome to my Sudoku puzzle game! - An interactive web Sudoku puzzle game developed in HTML, CSS, and JavaScript.
+> Welcome to udoku puzzle game! - An interactive web Sudoku puzzle game developed in HTML, CSS, and JavaScript.
 
 ### Live Demo
 🔗 https://huaminghuangtw.github.io/Web-Sudoku-Puzzle-Game/
